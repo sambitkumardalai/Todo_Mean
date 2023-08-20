@@ -1,0 +1,16 @@
+Todo app with mean stack (Mysql,express,angular)
+
+API
+--
+1) Create todo
+2) List todo
+3) Update todo
+4) Delete todo
+
+
+Frontend
+--------
+View page
+add page
+edit page
+delete button
